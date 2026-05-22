@@ -1,0 +1,8 @@
+
+VM Provisioning Report
+
+Machine ID: 11
+Name: check
+Operating System: ubuntu-22.04-lts
+CPU: 2
+RAM: 4GB
